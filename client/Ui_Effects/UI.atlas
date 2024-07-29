@@ -1,0 +1,46 @@
+Effect_1.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+Ape_images/effects/Light
+	bounds: 2, 65, 979, 801
+Ape_images/effects/UI_effects/impact
+	bounds: 2, 868, 1447, 1142
+Ape_images/effects/UI_effects/teleport_particles_2
+	bounds: 983, 22, 766, 844
+Ape_images/ui/Character_board
+	bounds: 1751, 221, 763, 288
+	rotate: 90
+Ape_images/ui/Lightning
+	bounds: 1451, 986, 512, 1024
+Ape_images/ui/MinusNumber
+	bounds: 1965, 1794, 216, 61
+	rotate: 90
+Ape_images/ui/PlusNumber
+	bounds: 2, 2, 230, 61
+
+Effect_2.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+Ape_images/effects/Stripes
+	bounds: 2, 918, 1500, 1080
+Ape_images/effects/UI_effects/Liquid_Charge_Loop_0
+	bounds: 2, 2, 400, 356
+Ape_images/effects/UI_effects/Liquid_Charge_Loop_1
+	bounds: 994, 560, 400, 356
+Ape_images/effects/UI_effects/Liquid_Charge_Loop_2
+	bounds: 1076, 202, 400, 356
+Ape_images/effects/UI_effects/Liquid_Charge_Loop_3
+	bounds: 1396, 560, 400, 356
+Ape_images/effects/UI_effects/teleport_fast_blur
+	bounds: 520, 209, 220, 554
+	rotate: 90
+Ape_images/ui/Lines_Circle
+	bounds: 2, 360, 516, 556
+Ape_images/ui/PrismaFlare
+	bounds: 1504, 956, 378, 536
+Ape_images/ui/glow
+	bounds: 520, 431, 472, 485
+Ape_images/ui/star
+	bounds: 1504, 1494, 504, 504

@@ -1,0 +1,203 @@
+Ape_attacks.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+Ape_images/effects/UI_effects/impact
+	bounds: 2, 892, 1447, 1142
+Ape_images/ui/MinusNumber
+	bounds: 1756, 13, 216, 61
+Ape_images/ui/PlusNumber
+	bounds: 1524, 13, 230, 61
+Pose1/Hand
+	bounds: 1524, 249, 686, 516
+	rotate: 90
+Pose3/Fist_6
+	bounds: 1451, 937, 1097, 535
+	rotate: 90
+Pose4/Arm_3
+	bounds: 1524, 76, 483, 171
+effects/Ray
+	bounds: 2, 2, 1520, 888
+
+Ape_attacks_2.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+Ape_images/Win_Lose/Lose
+	bounds: 1604, 146, 412, 151
+Ape_images/Win_Lose/Win
+	bounds: 472, 2, 356, 147
+Ape_images/effects/Stripes
+	bounds: 2, 936, 1500, 1080
+Ape_images/ui/Lightning
+	bounds: 1504, 992, 512, 1024
+Pose4/Arm_1
+	bounds: 2, 23, 468, 126
+Pose5/Arm
+	bounds: 1604, 299, 691, 411
+	rotate: 90
+Pose7/Body_2
+	bounds: 2, 151, 1600, 783
+dust_bg_effect/particle_1
+	bounds: 830, 31, 117, 118
+
+Ape_attacks_3.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+Pose2/Body2
+	bounds: 2, 50, 1028, 970
+Pose3/Fist_2
+	bounds: 1165, 958, 1087, 793
+	rotate: 90
+Pose4/Body
+	bounds: 2, 1022, 1161, 1023
+dust_bg_effect/dust_bg_effect_1
+	bounds: 1032, 2, 959, 954
+
+Ape_attacks_4.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+Ape_images/BattleStart/BattleStart
+	bounds: 2, 144, 979, 185
+Ape_images/ui/UI
+	bounds: 983, 2, 763, 288
+Pose1/Body
+	bounds: 2, 331, 1008, 894
+Pose3/Fist_1
+	bounds: 1322, 1232, 718, 780
+Pose3/Fist_3
+	bounds: 1012, 292, 605, 933
+Pose6/Arm
+	bounds: 1619, 311, 200, 383
+	rotate: 90
+Pose7/Arm_1
+	bounds: 1619, 513, 717, 346
+	rotate: 90
+Pose7/Body_1
+	bounds: 2, 1227, 1318, 785
+
+Ape_attacks_5.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+Ape_images/effects/UI_effects/teleport_fast_blur
+	bounds: 1811, 594, 220, 554
+Ape_images/effects/UI_effects/teleport_particles_2
+	bounds: 965, 382, 766, 844
+	rotate: 90
+Ape_images/ui/PrismaFlare
+	bounds: 1335, 2, 378, 536
+	rotate: 90
+Ape_images/ui/UI2
+	bounds: 2, 98, 763, 288
+Pose2/Arm1
+	bounds: 767, 2, 566, 378
+Pose3/Fist_4
+	bounds: 2, 388, 961, 806
+Pose5/Body
+	bounds: 983, 1150, 847, 888
+	rotate: 90
+effects/Light
+	bounds: 2, 1196, 979, 801
+Ape_images/effects/Light
+	bounds: 2, 1196, 979, 801
+
+Ape_attacks_6.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+Pose2/Hand2
+	bounds: 1188, 370, 546, 892
+Pose3/Body
+	bounds: 2, 1219, 838, 818
+Pose3/Fist_5
+	bounds: 632, 258, 554, 959
+Pose4/Arm_2
+	bounds: 1188, 103, 265, 499
+	rotate: 90
+Pose4/Arm_5
+	bounds: 1736, 726, 537, 248
+	rotate: 90
+Pose4/Arm_6
+	bounds: 402, 9, 229, 379
+	rotate: 90
+Pose4/Arm_8
+	bounds: 783, 27, 391, 229
+Pose5/Shoulder
+	bounds: 2, 2, 236, 398
+	rotate: 90
+Pose6/Hand
+	bounds: 2, 240, 977, 628
+	rotate: 90
+Pose6/Head
+	bounds: 1663, 1556, 362, 481
+Pose6/Shoulser
+	bounds: 1663, 1265, 380, 289
+backgrounds/11a
+	bounds: 1736, 248, 476, 269
+	rotate: 90
+dust_bg_effect/dust_bg_effect_4
+	bounds: 842, 1264, 819, 773
+
+Ape_attacks_7.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	pma: true
+Ape_images/effects/UI_effects/Liquid_Charge_Loop_0
+	bounds: 1446, 143, 400, 356
+Ape_images/ui/Lines_Circle
+	bounds: 454, 73, 516, 556
+Ape_images/ui/glow
+	bounds: 972, 151, 472, 485
+Ape_images/ui/star
+	bounds: 1292, 976, 504, 504
+Pose2/Arm2
+	bounds: 2, 2, 627, 450
+	rotate: 90
+Pose5/Arm2
+	bounds: 2, 1262, 619, 764
+Pose5/Arm3
+	bounds: 2, 631, 629, 584
+	rotate: 90
+Pose6/Body
+	bounds: 623, 909, 543, 471
+Pose7/Arm_2
+	bounds: 623, 1382, 667, 644
+backgrounds/12a
+	bounds: 588, 638, 479, 269
+dust_bg_effect/dust_bg_effect_2
+	bounds: 1292, 1482, 613, 544
+dust_bg_effect/spot_1
+	bounds: 1446, 501, 473, 426
+	rotate: 90
+Ape_images/BattleStart/spot_1
+	bounds: 1446, 501, 473, 426
+	rotate: 90
+
+Ape_attacks_8.png
+	size: 2048, 1024
+	filter: Linear, Linear
+	pma: true
+Ape_images/effects/UI_effects/Liquid_Charge_Loop_1
+	bounds: 2, 633, 400, 356
+Ape_images/effects/UI_effects/Liquid_Charge_Loop_2
+	bounds: 2, 275, 400, 356
+Ape_images/effects/UI_effects/Liquid_Charge_Loop_3
+	bounds: 404, 633, 400, 356
+Pose4/Arm_4
+	bounds: 404, 317, 365, 314
+Pose4/Arm_7
+	bounds: 1286, 413, 306, 322
+	rotate: 90
+Pose5/Shoulder2
+	bounds: 480, 2, 311, 313
+backgrounds/2a
+	bounds: 2, 5, 476, 268
+backgrounds/3a
+	bounds: 1285, 721, 478, 268
+backgrounds/7c
+	bounds: 806, 719, 477, 270
+backgrounds/8a
+	bounds: 806, 450, 478, 267
